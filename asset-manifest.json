@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/js/main.9e9ad21f.chunk.js",
-    "main.js.map": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/js/main.9e9ad21f.chunk.js.map",
-    "runtime-main.js": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/js/runtime-main.c62ba76c.js",
-    "runtime-main.js.map": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/js/runtime-main.c62ba76c.js.map",
-    "static/js/2.a2a5ac36.chunk.js": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/js/2.a2a5ac36.chunk.js",
-    "static/js/2.a2a5ac36.chunk.js.map": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/js/2.a2a5ac36.chunk.js.map",
-    "index.html": "/MaxKmet/MaxKmet.github.io/EnglishGames/index.html",
-    "precache-manifest.7c1ebde058d297179b37fffb76b48d23.js": "/MaxKmet/MaxKmet.github.io/EnglishGames/precache-manifest.7c1ebde058d297179b37fffb76b48d23.js",
-    "service-worker.js": "/MaxKmet/MaxKmet.github.io/EnglishGames/service-worker.js",
-    "static/css/main.27fd15f6.chunk.css.map": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.a2a5ac36.chunk.js.LICENSE.txt": "/MaxKmet/MaxKmet.github.io/EnglishGames/static/js/2.a2a5ac36.chunk.js.LICENSE.txt"
+    "main.css": "/EnglishGames/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/EnglishGames/static/js/main.6993e635.chunk.js",
+    "main.js.map": "/EnglishGames/static/js/main.6993e635.chunk.js.map",
+    "runtime-main.js": "/EnglishGames/static/js/runtime-main.f1b8c2b1.js",
+    "runtime-main.js.map": "/EnglishGames/static/js/runtime-main.f1b8c2b1.js.map",
+    "static/js/2.a2a5ac36.chunk.js": "/EnglishGames/static/js/2.a2a5ac36.chunk.js",
+    "static/js/2.a2a5ac36.chunk.js.map": "/EnglishGames/static/js/2.a2a5ac36.chunk.js.map",
+    "index.html": "/EnglishGames/index.html",
+    "precache-manifest.bf419bf29ea51861485b8b0c0d5fd3eb.js": "/EnglishGames/precache-manifest.bf419bf29ea51861485b8b0c0d5fd3eb.js",
+    "service-worker.js": "/EnglishGames/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/EnglishGames/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.a2a5ac36.chunk.js.LICENSE.txt": "/EnglishGames/static/js/2.a2a5ac36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c62ba76c.js",
+    "static/js/runtime-main.f1b8c2b1.js",
     "static/js/2.a2a5ac36.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.9e9ad21f.chunk.js"
+    "static/js/main.6993e635.chunk.js"
   ]
 }
