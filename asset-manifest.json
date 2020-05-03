@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/EnglishGames/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/EnglishGames/static/js/main.6993e635.chunk.js",
-    "main.js.map": "/EnglishGames/static/js/main.6993e635.chunk.js.map",
-    "runtime-main.js": "/EnglishGames/static/js/runtime-main.f1b8c2b1.js",
-    "runtime-main.js.map": "/EnglishGames/static/js/runtime-main.f1b8c2b1.js.map",
-    "static/js/2.a2a5ac36.chunk.js": "/EnglishGames/static/js/2.a2a5ac36.chunk.js",
-    "static/js/2.a2a5ac36.chunk.js.map": "/EnglishGames/static/js/2.a2a5ac36.chunk.js.map",
-    "index.html": "/EnglishGames/index.html",
-    "precache-manifest.bf419bf29ea51861485b8b0c0d5fd3eb.js": "/EnglishGames/precache-manifest.bf419bf29ea51861485b8b0c0d5fd3eb.js",
-    "service-worker.js": "/EnglishGames/service-worker.js",
-    "static/css/main.27fd15f6.chunk.css.map": "/EnglishGames/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.a2a5ac36.chunk.js.LICENSE.txt": "/EnglishGames/static/js/2.a2a5ac36.chunk.js.LICENSE.txt"
+    "main.css": "/EnglishGameReact/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/EnglishGameReact/static/js/main.2fd6a885.chunk.js",
+    "main.js.map": "/EnglishGameReact/static/js/main.2fd6a885.chunk.js.map",
+    "runtime-main.js": "/EnglishGameReact/static/js/runtime-main.2f5749c5.js",
+    "runtime-main.js.map": "/EnglishGameReact/static/js/runtime-main.2f5749c5.js.map",
+    "static/js/2.a2a5ac36.chunk.js": "/EnglishGameReact/static/js/2.a2a5ac36.chunk.js",
+    "static/js/2.a2a5ac36.chunk.js.map": "/EnglishGameReact/static/js/2.a2a5ac36.chunk.js.map",
+    "index.html": "/EnglishGameReact/index.html",
+    "precache-manifest.6b65d03ee8f7c06e393079ecc8201a74.js": "/EnglishGameReact/precache-manifest.6b65d03ee8f7c06e393079ecc8201a74.js",
+    "service-worker.js": "/EnglishGameReact/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/EnglishGameReact/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.a2a5ac36.chunk.js.LICENSE.txt": "/EnglishGameReact/static/js/2.a2a5ac36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1b8c2b1.js",
+    "static/js/runtime-main.2f5749c5.js",
     "static/js/2.a2a5ac36.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.6993e635.chunk.js"
+    "static/js/main.2fd6a885.chunk.js"
   ]
 }
