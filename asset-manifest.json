@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/EnglishGameReact/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/EnglishGameReact/static/js/main.2fd6a885.chunk.js",
-    "main.js.map": "/EnglishGameReact/static/js/main.2fd6a885.chunk.js.map",
+    "main.js": "/EnglishGameReact/static/js/main.09332fc9.chunk.js",
+    "main.js.map": "/EnglishGameReact/static/js/main.09332fc9.chunk.js.map",
     "runtime-main.js": "/EnglishGameReact/static/js/runtime-main.2f5749c5.js",
     "runtime-main.js.map": "/EnglishGameReact/static/js/runtime-main.2f5749c5.js.map",
-    "static/js/2.a2a5ac36.chunk.js": "/EnglishGameReact/static/js/2.a2a5ac36.chunk.js",
-    "static/js/2.a2a5ac36.chunk.js.map": "/EnglishGameReact/static/js/2.a2a5ac36.chunk.js.map",
+    "static/js/2.9ffb2da7.chunk.js": "/EnglishGameReact/static/js/2.9ffb2da7.chunk.js",
+    "static/js/2.9ffb2da7.chunk.js.map": "/EnglishGameReact/static/js/2.9ffb2da7.chunk.js.map",
     "index.html": "/EnglishGameReact/index.html",
-    "precache-manifest.6b65d03ee8f7c06e393079ecc8201a74.js": "/EnglishGameReact/precache-manifest.6b65d03ee8f7c06e393079ecc8201a74.js",
+    "precache-manifest.bf0b25ff32e5b6942532a3d59d6d5b35.js": "/EnglishGameReact/precache-manifest.bf0b25ff32e5b6942532a3d59d6d5b35.js",
     "service-worker.js": "/EnglishGameReact/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/EnglishGameReact/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.a2a5ac36.chunk.js.LICENSE.txt": "/EnglishGameReact/static/js/2.a2a5ac36.chunk.js.LICENSE.txt"
+    "static/js/2.9ffb2da7.chunk.js.LICENSE.txt": "/EnglishGameReact/static/js/2.9ffb2da7.chunk.js.LICENSE.txt",
+    "static/media/definitions.jpg": "/EnglishGameReact/static/media/definitions.07d73c46.jpg",
+    "static/media/puzzle.jpg": "/EnglishGameReact/static/media/puzzle.4fbe3969.jpg",
+    "static/media/talkingwoman.jpg": "/EnglishGameReact/static/media/talkingwoman.dfc948e4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2f5749c5.js",
-    "static/js/2.a2a5ac36.chunk.js",
+    "static/js/2.9ffb2da7.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.2fd6a885.chunk.js"
+    "static/js/main.09332fc9.chunk.js"
   ]
 }
