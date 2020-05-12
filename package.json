@@ -2,7 +2,7 @@
   "name": "simple-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MaxKmet.github.io/EnglishGameReact",
+  "homepage": "https://MaxKmet.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.9.12",
     "@testing-library/jest-dom": "^4.2.4",
